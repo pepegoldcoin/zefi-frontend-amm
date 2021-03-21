@@ -27,6 +27,14 @@
       "logoURI": "https://zcore.network/coins/ZCR.png"
     },
     {
+      "name": "Pepper Finance",
+      "symbol": "PEPR",
+      "address": "0x019be1796178516e060072004f267b59a49a0801",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://swap.peps.today/images/PEPR.png"
+    },
+    {
       "name": "Wrapped PEPS",
       "symbol": "PEPS",
       "address": "0xf0ebeb79792190a1be089c522c82e724a4f8c8f1",
@@ -34,6 +42,14 @@
       "decimals": 18,
       "logoURI": "https://zcore.network/coins/PEPS.png"
     },    
+    {
+      "name": "PEX DeFi",
+      "symbol": "PEX",
+      "address": "0x50f15390951386ce3c34122a77444e54973ddb91",
+      "chainId": 56,
+      "decimals": 8,
+      "logoURI": "https://swap.peps.today/images/PEX.png"
+    },
     {
       "name": "XPIX BR",
       "symbol": "XPIX",
